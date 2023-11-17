@@ -145,7 +145,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](exp6.png)
+<img width="952" alt="exp6" src="https://github.com/Kirthi-Niharika/cover/assets/114135005/ade3b4f5-7ba1-4f59-9280-d194b30a6b70">
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
